@@ -1,0 +1,31 @@
+Roteiro JavaSript
+
+Alert
+variaveis
+console.log
+array e dicionario
+condicional(if else)
+la�os de repeti�ao while e for
+push, pop e length
+reverse array
+toString para array
+join para array
+replace
+lowerCase , upperCase
+date
+redirecionar para outra pagina
+function
+variavel global/local
+dom
+getElement
+innerHTML
+onclick
+redirecionar para outra pagina
+onmouseover
+onchange
+onload
+onmouseover
+onmouseout
+F5(serve para atualizar alteraçoes feitas na pagina web)
+F12(no navegador apertar a tecla para acompanhar alteraçoes, digitar console.log no js )
+Alternativa ao F12 , clicar com botao direito no browser, ir em inspecionar
